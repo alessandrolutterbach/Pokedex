@@ -17,7 +17,7 @@
   </main>
 
   <footer>
-    <div> © {{ new Date().getFullYear() }}. Feito com amor por Alessandro Lutterbach.</div>
+    <div> © {{ new Date().getFullYear() }}. Feito com amor por <a href="https://lutterbach.me/" style="text-decoration: none">Alessandro Lutterbach</a>.</div>
   </footer>
 </template>
 
